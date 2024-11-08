@@ -1,1 +1,1 @@
-# Django.Project-Individual
+# Django.Project-Individuala
